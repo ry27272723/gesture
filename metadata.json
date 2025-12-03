@@ -1,0 +1,7 @@
+{
+  "name": "Gesture FX",
+  "description": "Real-time hand gesture recognition with interactive particle themes using MediaPipe and Canvas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
