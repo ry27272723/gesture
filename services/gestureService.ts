@@ -1,4 +1,4 @@
-import { FilesetResolver, HandLandmarker, DrawingUtils } from "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.3/+esm";
+import { FilesetResolver, HandLandmarker } from "@mediapipe/tasks-vision";
 import { GestureType, HandLandmark } from '../types';
 
 export class GestureService {
